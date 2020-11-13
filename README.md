@@ -1,2 +1,2 @@
 # jsProject
-Ой как интереснооооооооо. 
+Learning JavaScript repository
